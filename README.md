@@ -13,7 +13,7 @@ A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**
 
 ## 🚀 How to Run
 
-1. **Clone the repository** or [download the ZIP](https://github.com/Khushi256/rock-paper-scissors/archive/refs/heads/main.zip)
+1. **Clone the repository** 
 2. Open `index.html` in your browser.
 3. Click on **rock**, **paper**, or **scissors** to play your move.
 4. See the result instantly and track your score!
